@@ -48,8 +48,8 @@ function title() {
       console.clear()
       console.log(chalk.yellow(`\n\n               ${chalk.bold.yellow(`[ ${botname} ]`)}\n\n`))
       console.log(color(`< ================================================== >`, 'cyan'))
-	console.log(color(`\n${themeemoji} YT CHANNEL: FallXD425`,'magenta'))
-console.log(color(`${themeemoji} GITHUB: 4ksanzz `,'magenta'))
+	console.log(color(`\n${themeemoji} YT CHANNEL: devanonaufal`,'magenta'))
+console.log(color(`${themeemoji} GITHUB: devanonaufal `,'magenta'))
 console.log(color(`${themeemoji} WA NUMBER: ${owner}`,'magenta'))
 console.log(color(`${themeemoji} CREDIT: ${wm}\n`,'magenta'))
 }
