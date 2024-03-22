@@ -37,7 +37,7 @@ rl.question(text, resolve)
   })
 };
 
-const usePairingCode = true
+const usePairingCode = false
 //
 require('./case.js')
 nocache('../case.js', module => console.log(color('[ CHANGE ]', 'green'), color(`'${module}'`, 'green'), 'Updated'))
